@@ -1,0 +1,1 @@
+SF is a functional language, statically typed with paramétric polymorphism and with macros. It uses a type inference similar to haskell. The program is written in PROLOG
